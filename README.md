@@ -24,6 +24,17 @@
    <img height="550"  src="https://github.com/user-attachments/assets/0305ad0d-6c26-4022-a3c9-465e28a66385" />
 </div>
 
+<h2 align="center">2-2. Animated Text </h2>
+
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/30b9d459-bc1f-41db-9f6a-ff6211248929" type="video/mp4"> 
+</video>
+</div>
+
+<div align="center">
+  <img height="550"  src="https://github.com/user-attachments/assets/ae07f760-bb9e-4d80-989e-c3d65d92063d" />
+</div>
+
 <h2 align="center">3. Hero Animation </h2>
 
 <div align="center">
