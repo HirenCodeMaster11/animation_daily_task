@@ -23,3 +23,15 @@
   <img height="550"  src="https://github.com/user-attachments/assets/544615d2-f95a-4b1c-bdc2-7ec4dd6aff28" />
    <img height="550"  src="https://github.com/user-attachments/assets/0305ad0d-6c26-4022-a3c9-465e28a66385" />
 </div>
+
+<h2 align="center">3. Hero Animation </h2>
+
+<div align="center">
+ <video src="https://github.com/user-attachments/assets/11d091b5-9dd9-43f9-8beb-622cc4df45da" type="video/mp4"> 
+</video>
+</div>
+
+<div align="center">
+  <img height="550"  src="https://github.com/user-attachments/assets/3477969d-e946-44f8-b5a9-5fbb3d13ddc5" />
+   <img height="550"  src="https://github.com/user-attachments/assets/5b3c298e-90e3-44f9-bb93-f4f321efb57b" />
+</div>
