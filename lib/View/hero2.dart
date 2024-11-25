@@ -43,12 +43,18 @@ class _HeroAnimation2State extends State<HeroAnimation2> {
               ),
             ),
             SizedBox(height: 10,),
-            Text(animalName[widget.index],
-              style: TextStyle(fontSize: 26, fontWeight: FontWeight.w500,color: Colors.white),),
+            Hero(
+              tag: widget.index,
+              child: Text(animalName[widget.index],
+                style: TextStyle(fontSize: 26, fontWeight: FontWeight.w500,color: Colors.white),),
+            ),
             SizedBox(height: 10,),
-            Text(
-              animalDescription[widget.index], style: TextStyle(fontSize: 14,color: Colors.grey.shade400),
-              textAlign: TextAlign.center,),
+            Hero(
+              tag: widget.index,
+              child: Text(
+                animalDescription[widget.index], style: TextStyle(fontSize: 14,color: Colors.grey.shade400),
+                textAlign: TextAlign.center,),
+            ),
           ],
         ),
       ),

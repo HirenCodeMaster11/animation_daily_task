@@ -1,6 +1,7 @@
 import 'package:animation_daily_task/View/airoplane.dart';
 import 'package:animation_daily_task/View/game.dart';
 import 'package:animation_daily_task/View/hero.dart';
+import 'package:animation_daily_task/View/rotation.dart';
 import 'package:flutter/material.dart';
 
 import 'View/hii.dart';
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Hii(),
+      home: PlanetRotation(),
     );
   }
 }
